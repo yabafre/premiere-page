@@ -1,0 +1,12 @@
+{
+  "overrides": [
+    {
+      "files": "*.html",
+      "options": {
+        "semi": false,
+        "bracketSameLine": false,
+        "printWidth": 160000000000
+      }
+    }
+  ]
+}
